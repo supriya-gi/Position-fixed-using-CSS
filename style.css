@@ -28,6 +28,7 @@
 }
 .content{
     line-height: 2.8rem; 
+    text-align:center;
 }
 .about p{
     font-size: 20px;
